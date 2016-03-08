@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[The HiFi Revival]]></title>
         <description><![CDATA[The HiFi Revival]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hifirevival/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 11:36:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 11:37:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hifirevival/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined5b5b3c69-b784-482b-b62f-d3fa50294ccb/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c319dee0-64f9-4896-8c30-1a7f7dc394a2.jpg">]]></description>
+            <link>https://thegrid.ai/hifirevival/5b5b3c69-b784-482b-b62f-d3fa50294ccb/index.html</link>
             <guid isPermaLink="false">5b5b3c69-b784-482b-b62f-d3fa50294ccb</guid>
-            <pubDate>Tue, 08 Mar 2016 11:36:44 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2016 11:37:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
