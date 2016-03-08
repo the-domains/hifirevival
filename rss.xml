@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The HiFi Revival]]></title>
+        <description><![CDATA[The HiFi Revival]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 08 Mar 2016 11:36:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>undefined5b5b3c69-b784-482b-b62f-d3fa50294ccb/index.html</link>
+            <guid isPermaLink="false">5b5b3c69-b784-482b-b62f-d3fa50294ccb</guid>
+            <pubDate>Tue, 08 Mar 2016 11:36:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
